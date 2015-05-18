@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1367276095 source:c:\users\rodrigo\documents\programacao\ece243 - computer organization\delta_simulator\emulator.c
+	"delta.h"
+
+1367276126 c:\users\rodrigo\documents\programacao\ece243 - computer organization\delta_simulator\delta.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<stdlib.h>
+	<time.h>
+
+1367276136 source:c:\users\rodrigo\documents\programacao\ece243 - computer organization\delta_simulator\parser.c
+	"delta.h"
+
